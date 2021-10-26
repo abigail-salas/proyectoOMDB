@@ -1,2 +1,2 @@
 # proyectoOMDB
-Página de peliculas
+Página de peliculas (en proceso)
